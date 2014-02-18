@@ -14,7 +14,7 @@ public class GetInt {
 	 
 	    do{
 	      System.out.print(rotulo);
-	      entero = entradaXTeclado.nextInt(); // introducción x teclado y conversión
+	      entero = entradaXTeclado.nextInt(); // introducciï¿½n x teclado y conversiï¿½n
 	      }
 	    while(positivo && entero <= 0);       // se pide positivo y no lo es
 	 
@@ -22,6 +22,6 @@ public class GetInt {
 	    }
 	 public static void autor() 
 	    {
-         System.out.println("Creado por María del Carmen Gomez Nimo");
+         System.out.println("Creado por Marï¿½a del Carmen Gomez Nimo". CD);
 	    }
 }
